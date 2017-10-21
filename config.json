@@ -1,0 +1,7 @@
+{
+  "token": "MzY5NzczMzQ4NjIxOTEwMDI3.DMyZTg.RV7B4bTUc7yv9dar5YZhbF21vyc",
+  "prefix": ";",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
